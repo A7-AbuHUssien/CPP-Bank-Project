@@ -1,0 +1,25 @@
+﻿  Main.cpp
+D:\Bank2\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Bank2\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Bank2\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Bank2\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\Bank2\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Bank2\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Bank2\clsUtil.h(33,3): warning C4102: 'defualt': unreferenced label
+D:\Bank2\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\Bank2\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\Bank2\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Bank2\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Bank2\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Bank2\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Bank2\clsBankClient.h(420,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Bank2\clsBankClient.h(433,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Bank2\clsClientListScreen.h(49,11): warning C4129: ' ': unrecognized character escape sequence
+D:\Bank2\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Bank2\clsTransferScreen.h(50,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Bank2\clsAddNewUserScreen.h(116,17): warning C4129: 'C': unrecognized character escape sequence
+D:\Bank2\clsUpdateUserScreen.h(118,17): warning C4129: 'C': unrecognized character escape sequence
+D:\Bank2\clsBankClient.h(375,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Bank2\clsBankClient.h(437,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\Bank2\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank2.vcxproj -> D:\Bank2\x64\Debug\Bank2.exe
