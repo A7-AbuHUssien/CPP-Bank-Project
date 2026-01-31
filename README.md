@@ -43,7 +43,6 @@ This project was built as a **learning exercise** to:
 - Work with file input/output
 - Build a non-trivial console application
 
-It is **not** intended to represent a real banking system or a production-ready architecture.
 
 ---
 
